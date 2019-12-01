@@ -1,0 +1,10 @@
+digitalocean_token = "YOUR_DIGITALOCEAN_TOKEN"
+digitalocean_droplet_image = "ghost-18-04"
+digitalocean_droplet_name = "ghost-18-04"
+digitalocean_droplet_region = "sgp1"
+digitalocean_droplet_size = "s-1vcpu-1gb"
+digitalocean_ssh_key = "YOUR_DIGITALOCEAN_SSH_KEY"
+digitalocean_droplet_backup = false
+cloudflare_email = "YOUR_CLOUDFLARE_EMAIL"
+cloudflare_api_key = "YOUR_CLOUDFLARE_API_KEY"
+cloudflare_domain = "YOUR_CLOUDFLARE_DOMAIN"
