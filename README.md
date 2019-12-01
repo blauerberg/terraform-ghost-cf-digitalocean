@@ -38,7 +38,7 @@ $ rerraform apply
 ssh root@{your droplet ip}
 ```
 
-4. Enjoy!
+4. Enjoy! :slightly_smiling_face:
 
 ## Configurations
 
